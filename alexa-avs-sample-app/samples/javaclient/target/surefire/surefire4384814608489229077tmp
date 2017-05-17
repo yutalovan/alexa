@@ -1,0 +1,5 @@
+#surefire
+#Fri Apr 14 08:22:45 UTC 2017
+user.dir=/home/pi/Desktop/alexa-avs-sample-app/samples/javaclient
+localRepository=/home/pi/.m2/repository
+basedir=/home/pi/Desktop/alexa-avs-sample-app/samples/javaclient
